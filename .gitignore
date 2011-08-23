@@ -1,0 +1,6 @@
+.hg/
+.hgignore
+*.tmproj
+*.pyc
+ext_local
+.DS_Store
